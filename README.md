@@ -12,6 +12,4 @@ this lab am using packet tracer  is a good software for practice. If you want to
 -  that's it. the the lab is worked.
 
 ### Special Thanks :
--  I owe my success to Allah and my parents who have sacrificed so much to get me where I am.
-
-<p dir="auto">I owe my success to <strong><code>Allah</code></strong> and my parents who have sacrificed so much to get me where I am.  -</p>
+-  <p dir="auto">I owe my success to <strong><code>Allah</code></strong> and my parents who have sacrificed so much to get me where I am.  -</p>
